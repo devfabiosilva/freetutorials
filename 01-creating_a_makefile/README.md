@@ -26,7 +26,7 @@ program: main.c
 
 ```
 
-You can view these tutorial videos (in Portuguese) in my youtube channel [O curioso](https://www.youtube.com/@umpoucosobreconhecimentos)
+You can view these tutorial videos (in Portuguese) in my youtube channel [O curioso](https://www.youtube.com/@ocurioso1981)
 
 Thank you :)
 
